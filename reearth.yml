@@ -1,0 +1,7 @@
+id: zoom-plugin
+name: Zoom Plugin
+version: 1.0.0
+extensions:
+  - id: index
+    type: widget
+    name: Zoom Plugin
