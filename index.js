@@ -11,7 +11,7 @@ reearth.ui.show(`
     }
 
     button {
-      background-color: #2A2A2A;
+      background-color: #0000FF;
       border: none;
     }
 
